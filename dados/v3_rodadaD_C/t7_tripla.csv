@@ -1,0 +1,5 @@
+terceira_dimensao,desfecho,termo,rr,lo,hi,p,variancia
+renda_q1,ia_total,negra:mulher:renda_q1,0.9960120563619181,0.8908499697036276,1.1135882024538133,0.9440437267225605,C: 200 pesos replicados (bootstrap Rao-Wu-Yue; mse; divisor R-1)
+renda_q1,ia_grave,negra:mulher:renda_q1,1.1975959699721037,0.8880611545505902,1.615019528716161,0.2372604232194504,C: 200 pesos replicados (bootstrap Rao-Wu-Yue; mse; divisor R-1)
+sem_fund,ia_total,negra:mulher:sem_fund,1.0876295624039996,0.9871040179270413,1.1983925133840847,0.08957523653524668,C: 200 pesos replicados (bootstrap Rao-Wu-Yue; mse; divisor R-1)
+sem_fund,ia_grave,negra:mulher:sem_fund,0.9994388373623604,0.7303253943154802,1.3677163595885307,0.9972018038968788,C: 200 pesos replicados (bootstrap Rao-Wu-Yue; mse; divisor R-1)
