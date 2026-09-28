@@ -45,7 +45,7 @@ MIT License (see `LICENSE`).
 
 ## Authors
 
-Bernardo Castanho Santos Caú (https://orcid.org/0009-0001-8155-5854), Naiara Sperandio
+Bernardo Castanho (https://orcid.org/0009-0001-8155-5854), Naiara Sperandio
 (https://orcid.org/0000-0003-1079-0854). Programa de Pós-Graduação em Segurança Alimentar e Nutricional
 (PPGSAN), Universidade Federal do Estado do Rio de Janeiro (UNIRIO).
 
