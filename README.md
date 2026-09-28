@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23019882.svg)](https://doi.org/10.5281/zenodo.23019882)
+
 # Code and derived data — Race, income and household food insecurity in Brazil: joint disparities depend on the scale of interaction
 
 This repository contains the analysis code and derived (non-identifiable, aggregate) data tables underlying
@@ -35,8 +37,7 @@ three configurations give identical point estimates.
 
 ## Citation
 
-If you use this code, please cite the associated article: [full citation to be added once the article has a
-DOI].
+If you use this code, please cite it via its Zenodo DOI: 10.5281/zenodo.23019882 (https://doi.org/10.5281/zenodo.23019882). The associated article citation will be added once assigned by the journal.
 
 ## Licence
 
