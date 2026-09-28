@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23019882.svg)](https://doi.org/10.5281/zenodo.23019882)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23019881.svg)](https://doi.org/10.5281/zenodo.23019881)
 
 # Code and derived data — Race, income and household food insecurity in Brazil: joint disparities depend on the scale of interaction
 
@@ -37,7 +37,7 @@ three configurations give identical point estimates.
 
 ## Citation
 
-If you use this code, please cite it via its Zenodo DOI: 10.5281/zenodo.23019882 (https://doi.org/10.5281/zenodo.23019882). The associated article citation will be added once assigned by the journal.
+If you use this code, please cite it via its Zenodo concept DOI, which always resolves to the latest version: 10.5281/zenodo.23019881 (https://doi.org/10.5281/zenodo.23019881). The current version (1.0.1) is archived at 10.5281/zenodo.23022319. The associated article citation will be added once assigned by the journal.
 
 ## Licence
 
